@@ -1,0 +1,6 @@
+favnum=25
+prompt(guess="result"){
+    if(guess<25 console.log("To Low"))
+else if(guess>25 console.log("to high" ))
+else console.log("Congradulations!")
+}
